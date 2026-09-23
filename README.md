@@ -1,10 +1,10 @@
 # Hi there, I'm Kyren 👋
 
-Software Engineer & Open Source Contributor.
+Software Engineer (Go & Cloud Infrastructure)
 
-- 🔭 Working on media engines, automation tools, and web applications.
-- ⚡ Tech Stack: Go / TypeScript / Python / Linux
-- 🏢 Member at: Coming soon
+- 🔭 Focus: Go, Cloud Architecture (AWS/GCP), and Development Automation.
+- 🚀 Working on media engines, CLI tools, and reproducible dev pipelines.
+- ⚡ Tech Stack: Go / TypeScript / Python / Linux / Docker
 ---
 
 ### 🛠 Tech Stack
@@ -16,7 +16,8 @@ Software Engineer & Open Source Contributor.
 ---
 
 ### 📫 Connect with me
-- 🌐 Portfolio: Coming soon
+- 📝 Zenn: https://zenn.dev/kyrenzk
+- 🌐 Portfolio: [Coming soon](https://portfolio-kyrenzk.vercel.app/)
 - 🐦 X (Twitter): Coming soon
 
 <!--
