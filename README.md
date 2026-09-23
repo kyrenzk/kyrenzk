@@ -18,7 +18,7 @@ Software Engineer (Go & Cloud Infrastructure)
 ### 📫 Connect with me
 - 📝 Zenn: https://zenn.dev/kyrenzk
 - 🌐 Portfolio: [Coming soon](https://portfolio-kyrenzk.vercel.app/)
-- 🐦 X (Twitter): Coming soon
+- 🐦 X (Twitter): https://x.com/kyrenzk
 
 <!--
 **kyrenzk/kyrenzk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
